@@ -5,6 +5,11 @@ body{
 
 h1 {
 	padding:13px;
+	margin-top:150px;
+}
+
+.hinnasto {
+	padding:50px;
 }
 
 h4 {
@@ -15,6 +20,7 @@ table {
 	background-color: BlanchedAlmond;
 	margin: auto;
 	width: 50% !important;
+	
 }
 tr {
 	border:solid black 3px;
@@ -153,6 +159,7 @@ h5 {
 	
 	h1{
 		margin-top:200px;
+		padding:0;
 	}
 	.content h3, .content p{
     margin-left: 15px;
@@ -187,6 +194,11 @@ h5 {
 	display:inline;
 	color:black;
 	text-align:center;
+	}
 	
-}
+	.hinnasto {
+		padding:0;
+		margin-top:200px;
+	}
+	
 }
